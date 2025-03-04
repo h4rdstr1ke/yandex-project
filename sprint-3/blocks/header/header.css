@@ -1,0 +1,37 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    font-family: "Inter-Regular";
+}
+
+@media (max-width: 768px) {
+.header {
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+.header {
+    margin-top: 2.5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+}
+
+@media (min-width: 1024px) and (max-width: 1280px) {
+.header {
+    margin-top: 2.5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+}
+
+@media (min-width: 1280px) {
+.header {
+    margin-top: 1.5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+}

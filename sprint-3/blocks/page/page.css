@@ -1,0 +1,27 @@
+.page {
+    background-color: #2A2C2F;
+}
+
+html {
+    background-color: #2A2C2F;
+}
+
+h1,h2,h3,h4 {
+    color: #FFFFFF;
+    font-family: "Inter-Black";
+}
+
+p {
+    color: #FFFFFF;
+    font-family: "Inter-Regular";
+}
+
+span {
+    color: #FFFFFF;
+    font-family: "Inter-Regular";
+}
+
+a {
+    color: #FFFFFF;
+    font-family: "Inter-Regular";
+}

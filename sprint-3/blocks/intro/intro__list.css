@@ -1,0 +1,14 @@
+.intro__list {
+    margin: 0;
+}
+.intro__list p {
+    margin: 0;
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: bold;
+}
+.intro__list span {
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: 100;
+} 
