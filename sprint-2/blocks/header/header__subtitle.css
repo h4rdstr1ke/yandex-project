@@ -1,0 +1,16 @@
+.header__subtitle {
+    position: absolute;
+    width: 388px;
+    bottom: 30px;
+    left: 64px;
+}
+.header__subtitle {
+    line-height: 25px;
+    font-size: 18px;
+    font-weight: normal;
+}
+.header__subtitle a {
+    text-transform: none;
+    text-decoration: none;
+    color: #2f80ed;
+}
